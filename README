@@ -1,0 +1,14 @@
+November 23 2014
+Steve Meyer
+
+header.h - Has some includes and function declarations.
+
+encode.c - Compresses text using Huffman's algorithm.
+
+decode.c - Decompresses text that was run through encode.c.
+
+endecode.c - Some functions needed by both encode and decode. 
+
+Makefile - Makes stuff.
+
+
