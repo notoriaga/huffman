@@ -12,3 +12,4 @@ endecode.c - Some functions needed by both encode and decode.
 Makefile - Makes stuff.
 
 
+Test
